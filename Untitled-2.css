@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    background-color: #f5821f;
+    width: 100%;
+    text-align: center;
+}
+.header ul li{
+    
+    padding: 10px;
+    font-size: 17px;
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+}
+input{
+    height: 29px;
+}
+
+.container .head img{
+    height: 80px;
+    width: 240px;
+}
+.container .head li{
+    display: inline;
+    color:darkblue;
+    list-style-type: none;
+    padding: 17px;
+    font-size: 16;
+}
+.container .head li:hover{
+    background-color: #f1f1f1;
+}
+.head {
+    padding: 1px;
+    display:inline-block;
+    margin: 0px;
+    background-color: white;
+    
+    width: 100%;
+}
+.head img,.head li,.head la,.head lo{
+    margin-bottom: 10px;
+}
+ la{
+    color:darkblue;
+    border: 2px solid darkblue;
+    margin-left: 22px;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+ lo{
+    color:white;
+    background-color: darkred;
+    padding: 10px;
+    border: 2px solid darkred;
+}
+.sa{
+    margin: 1px;
+    margin-bottom: 13px;
+}
+.s img{
+    width: 100%;
+    height: 300px;
+}
+.san{
+     margin-top: 10px;
+    
+}
+.sa{
+    width: 270px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin-left: 10px;
+   display: inline-block;
+    
+}
+.sa .a img{
+    width:80px;
+    height: 80px;
+    
+   
+}
+.sa h4{
+    color:#f5821f;
+}
+.a{
+    width: 110px;
+    display: inline-block;
+}
+h6{
+    color: white;
+    border:2px solid #f5821f;
+    padding:12px;
+    background-color: #f5821f;
+    text-align: center
+}
+
+.as b{
+    color: white;
+}
+video{
+    width:100%;
+    height: 330px;
+}
+.sp{
+    color: #f5821f;
+    text-align: center;
+}
+.p{
+    border: 1px solid #555;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: auto;
+    display: inline-block;
+    margin-left: 9px;
+    position: relative;
+}
+.p .im{
+    height: 163;
+    padding-bottom: 16px;
+}
+.p .star img{
+    height: 18px;
+}
+.p p{
+    padding-bottom: 25px;
+}
+.border{
+    border-bottom: 1px solid #555;
+    width: 170px;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000000;
+
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease-in-out;
+}
+
+.p:hover .overlay {
+  height: 100%;
+}
+.ps{
+    color: white;
+    opacity: 100;
+    margin-top: 30px;
+    border-bottom: 1px solid white;
+    
+   
+}
+.ps img{
+    margin-bottom: 20px;
+}
+span{
+    color:green;
+}
+.share p{
+    display: inline-block;
+    margin-right: 30%;
+}
+.share{
+    color:white;
+    margin-top: 9px;
+   
+}
+.share img{
+    height: 20px;
+}
+.ps h5{
+    font-size: 15px;
+}
+center{
+    margin-bottom: 12px;
+}
+
+.inter{
+    display: inline-block;
+    width: 240px;
+    margin-right: 10px;
+}
+ul{
+    list-style-type: none;
+    width:100%;
+}
+li{
+    display: inline-block;
+}
+.col-lg-9 li{
+    margin-left: 100px;
+}
+ #san{
+    background-color: #f5821f;
+    padding-top:  5px;
+}
+#sa{
+    background-color: #053c6d;
+}
+.color{
+    color:white;
+    
+    line-height: 10px;
+    font-size: 13;
+}
+.color h5{
+    padding: 10px 0px 1px 0px;
+    
+}
+.col-lg-3 img{
+    height: 30;
+    
+    padding-right: 13px;
+}
+#w{
+    padding-top: 18px;
+    margin-right: 9px;
+    border-right: 1px solid white;     
+}
+.ma{
+    padding: 30px 0px 3px 0px;
+}
+.ma input[type=text]{
+    padding-left: 10px;
+    margin-bottom: 29px;
+}
+.ma p{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.ma pa{
+    color: rgb(169, 169, 169);
+    padding: 5px 120px 7px 10px;
+    
+    background-image: url("ioosprites%20(2).png");
+    background-size: auto;
+}
+select{
+    border: none;
+     padding: 5px 120px 7px 10px;
+}
+#sam{
+    padding-bottom: 10px;
+}
+select::selection{
+    border: none;
+    background-color: skyblue;
+}
+center  .qw{
+    color:white;
+    font-size: 12px;
+}
