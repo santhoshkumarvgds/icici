@@ -30,7 +30,7 @@
 .mmmm{
     display: inline-block;
 }
-span{
+.icon-bar{
     background-color: white;
 }
 .header{
@@ -76,6 +76,9 @@ input{
 .head img{
     margin-bottom: 10px;
     
+}
+span{
+    background-color: black;
 }
 .head li{
    padding: 33px;
